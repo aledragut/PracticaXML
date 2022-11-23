@@ -1,6 +1,5 @@
-.div_item1{
+.RecAzul{
     background-color: rgb(127, 176, 250);
-    display: flex;
     height: 120px;
     width: 160px;
     position: absolute;
@@ -8,30 +7,28 @@
     margin-left: 20px;
 }
 
-.div_item2{
-    background-color: rgb(251, 255, 27);
-    display: flex;
+.RecAmar{
+    background-color: rgb(241, 245, 9);
     height: 40px;
     width: 40px;
-    position: absolute;
-    margin-top: 60px;
-    margin-left: 40px;
+    position: relative;
+    margin-bottom: 60px;
+    margin-left: 20px;
+    margin-top: 20px;
 }
-.div_item3{
+.RecRojo{
     background-color: rgb(190, 81, 81);
-    display: flex;
     height: 120px;
     width: 160px;
     position: absolute;
     margin-left: 100px;
     margin-top: 140px;
 }
-.div_item4{
+.RecVerde{
     background-color: rgb(95, 236, 170);
-    display: flex;
     height: 40px;
     width: 40px;
-    position: absolute;
-    margin-top: 200px;
-    margin-left: 200px;
+    position: relative;
+    margin-top: 60px;
+    margin-left: 100px;
 }
